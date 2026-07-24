@@ -13,6 +13,7 @@ public class DebitTransactionCounter {
             }
         }
 
+
         // Output the number of debit transactions
         System.out.println("Number of debit transactions: " + debitCount);
     }
